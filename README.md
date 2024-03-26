@@ -16,7 +16,11 @@ This Is An External ESP For Counter Strike 2 Use This At Your Own Risk There Is 
 
 ## Screenshots
 
-![App Screenshot](https://freeimage.host/i/JjoASXj)
+![cs2-external-esp](https://github.com/Aaron-656/CS2-External-ESP/assets/147849093/811d0bcf-4359-4335-a5f2-791aafdedb6a)
+
+![cs2-external-esp-gdi](https://github.com/Aaron-656/CS2-External-ESP/assets/147849093/79939757-8f80-44b2-86e6-f33d2bc682e8)
+
+
 
 
 ## Installation Guide
