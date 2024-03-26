@@ -3,6 +3,8 @@
 
 This Is An External ESP For Counter Strike 2 Use This At Your Own Risk There Is A Possibiility Of Getting Banned It Is Recommended To Use An Alternative Account For Steam This Will Most Likely Make Your CS2 Trust Factor Go Down It Is External So It Shouldn't Be As Detected As Other Internal Cheats
 
+Coded In C++
+
 
 
 
@@ -11,6 +13,7 @@ This Is An External ESP For Counter Strike 2 Use This At Your Own Risk There Is 
 
 - Automatic Attaching Process
 - ESP
+- Coded In C++
 
 
 
